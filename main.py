@@ -5,6 +5,8 @@
 
 
 # archivo main
+from cliente import Cliente
+from mecanico import Mecanico
 
 
 def main():
